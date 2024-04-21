@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Tourism-page-react/static/css/main.889f68a7.css",
+    "main.js": "/Tourism-page-react/static/js/main.90c76b46.js",
+    "index.html": "/Tourism-page-react/index.html",
+    "static/media/heart.svg": "/Tourism-page-react/static/media/heart.62980d53697cabaa56ac0cb9ea1b1cc1.svg",
+    "main.889f68a7.css.map": "/Tourism-page-react/static/css/main.889f68a7.css.map",
+    "main.90c76b46.js.map": "/Tourism-page-react/static/js/main.90c76b46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.889f68a7.css",
+    "static/js/main.90c76b46.js"
+  ]
+}
